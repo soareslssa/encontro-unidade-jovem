@@ -12,7 +12,7 @@
           color="primary"
         />
       </div>
-      <div class="col-12 col-md-2 text-h2 text-center">
+      <div class="col-12 col-md-4 text-h2 text-center">
         <strong>19, 20 e 21</strong>
         <section class="text-h4">
           <strong>DE OUTUBRO</strong>
